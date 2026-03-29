@@ -39,3 +39,7 @@ Shoot the centipede as it winds down through the mushroom field. Destroy all seg
 - Web Audio API for all sound effects (synthesised, no audio files)
 - Responsive — scales to fit the browser window
 - Zero external dependencies
+
+---
+
+Centipede is provided by [Jorvik Software](https://jorviksoftware.cc/). If you find it useful, consider [buying me a coffee](https://jorviksoftware.cc/donate).
