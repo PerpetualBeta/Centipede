@@ -10,9 +10,9 @@ Open `centipede.html` in any modern browser.
 
 | Key | Action |
 |-----|--------|
-| Arrow keys / WASD | Move |
-| Space | Fire |
-| P / Escape | Pause |
+| Arrow keys / `W` `A` `S` `D` | Move |
+| `space` | Fire |
+| `P` / `esc` | Pause |
 
 ### Objective
 
